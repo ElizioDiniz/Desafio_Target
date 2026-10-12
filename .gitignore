@@ -1,0 +1,29 @@
+# .NET build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Ll]ib/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+# Temporary files
+*.tmp
+*.log
+Thumbs.db
